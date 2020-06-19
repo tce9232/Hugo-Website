@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/tce9232/tce9232.github.io.git
+	branch = master
