@@ -16,7 +16,7 @@ baseURL = "https://tce9232.github.io/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-157449578-3"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
