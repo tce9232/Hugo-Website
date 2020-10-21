@@ -1,7 +1,7 @@
 ---
 date: "2020-02-04T00:00:00Z"
 external_link: null
-image:
+image: oscar.png
   focal_point: Smart
 summary: Searching for gender parody in Academy Award nominations and winners
 tags:
