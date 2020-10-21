@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: Ted.png
+avatar_image: ted.png
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 btn:
