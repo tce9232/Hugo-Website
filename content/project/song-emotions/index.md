@@ -55,3 +55,7 @@ slides: ""
 
 {{< plotly json="/plotly/3DRapLyricScatter.json" height="600px" width="800px"  >}}
 
+### Test
+
+{{< plotly json="/plotly/Value-Properties-Scatter.json" height="600px" width="800px"  >}}
+
